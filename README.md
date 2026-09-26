@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # CodeSentry
 
 AI-assisted security code reviewer powered by Google Gemini and a local heuristic vulnerability scanner.
@@ -151,4 +151,4 @@ Press `Ctrl+C` or send an end-of-file signal to exit the interactive application
 - Review code manually and use dedicated security tools before deploying sensitive applications.
 =======
 # CodeAnalyzer
->>>>>>> ede8018119da8c2362621aa80a68740987f8a1e3
+
