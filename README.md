@@ -4,7 +4,6 @@
 AI-assisted security code reviewer powered by Google Gemini and a local heuristic vulnerability scanner.
 
 ## Features
-
 - Reviews code snippets in plain language using Gemini.
 - Uses a local scanner to identify common risky patterns.
 - Reports a verdict, severity, affected line, explanation, and suggested fix.
