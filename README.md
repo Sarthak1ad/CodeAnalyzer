@@ -148,5 +148,3 @@ Press `Ctrl+C` or send an end-of-file signal to exit the interactive application
 - Rotate any credential that has been exposed.
 - Treat AI output and heuristic findings as review assistance, not as a replacement for security testing.
 - Review code manually and use dedicated security tools before deploying sensitive applications.
-=======
-
