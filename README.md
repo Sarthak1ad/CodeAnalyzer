@@ -146,5 +146,5 @@ Press `Ctrl+C` or send an end-of-file signal to exit the interactive application
 
 - Never place real secrets in code submitted for review.
 - Rotate any credential that has been exposed.
-- Treat AI output and heuristic findings as review assistance, not as a replacement for security testing.
+- Treat AI output and heuristic findings as review assistance, not as a replacement for security testing
 
