@@ -8,7 +8,7 @@ AI-assisted security code reviewer powered by Google Gemini and a local heuristi
 - Uses a local scanner to identify common risky patterns.
 - Reports a verdict, severity, affected line, explanation, and suggested fix.
 - Supports an optional programming-language hint.
-- Keeps API credentials in environment variables instead of source code.
+- Keeps API credentials in environment variables instead of source code
 
 ## Requirements
 
