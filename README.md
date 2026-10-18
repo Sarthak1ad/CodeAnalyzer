@@ -36,7 +36,7 @@ AI-assisted security code reviewer powered by Google Gemini and a local heuristi
 	GEMINI_API_KEY=your_gemini_api_key
 	```
 
-	Do not commit this file. It is excluded by `.gitignore`.
+	Do not commit this file. It is excluded by `.gitignore`
 
 ## Usage
 
